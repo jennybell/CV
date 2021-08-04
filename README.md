@@ -1,77 +1,59 @@
-## Your Name
+## Jenny Bell
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+- I am a Makers Academy July 2021 graduate, looking to keep learning and find my place in the tech industry.
+- I produced a final project I am very proud of and a solid grasp of Ruby and Javascript, among other tech.
+- I am excited to keep learning more about the world of software development, and have found I have a particular interest in DevOps and I can't wait to explore that further, and see where it can take me.
+
+
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description                                               | Tech/tools        |
+| ---------------------------- | --------------------------------------------------------- | ----------------- |
+| **Tavern Keepers**           | A social app to find and interact with your new D&D party | Ruby on Rails     |
+| **Acebook**                  | A Facebook clone - group project                          | Ruby on Rails     |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Pavilion Bakery** (2019-2020)  
+_Operations Assistant and HR Manager_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**PEARL, Hackney Wick** (2016-2019)  
+_General Manager_
 
-- Any experience relevent to software development
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### Problem Solving
 
--STAR
--What was the situation/task? (ST)
+- Working in operations and management in hospitality, an industry where everything goes wrong all the time and requires out of the box thinking, means that I have developed excellent problem solving ability.
+- Staying calm, getting things done without a fuss, building new operational systems from scratch to combat problems no one even considered, and proving myself enough to be promoted in two roles with no experience.
 
--How was the skill used?
+#### People and teamwork
 
--What did you do? (action)
+- In all my previous jobs, including in customer service and sales, I have used my people skills to get things done, and form productive relationships.
+- At my last job, there was no HR system in place and my skills were recognised enough for me to be put in charge of creating a whole new system of policies and procedures with regards to both people and general company operations.
+- This meant the whole comapny ran as a more cohesive team, and led to a 50% reduction in staff turnover.
 
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
+#### Makers Academy (April-July 2021)
+- I used my persitance, good communication, and ability to work in a team to learn as much as I could, and create production quality codebases in a short amount of time.
+- I frequently used pairing in order to problemsolve effeciently.
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
+- I gravitated towards DevOps roles in my project teams 
 
-#### Your University / College (start_date to end_date)
+#### Newcastle University (2009-2012)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- Biomedical Sciences with Business
+- 2:1
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- I have played Dungeons and Dragons for many years and have a creative outlet making handmade dice to play with. This improves my communication, lateral thinking and creativity. It has also provided me with many ideas for personal projects that I can't wait to code.
+
