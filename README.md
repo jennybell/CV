@@ -10,8 +10,8 @@
 
 | Name                         | Description                                               | Tech/tools        |
 | ---------------------------- | --------------------------------------------------------- | ----------------- |
-| **Tavern Keepers**           | A social app to find and interact with your new D&D party | Ruby on Rails     |
-| **Acebook**                  | A Facebook clone - group project                          | Ruby on Rails     |
+| **[Tavern Keepers](https://github.com/jennybell/dnd-finder)**           | A social app to find and interact with your new D&D party | Ruby on Rails     |
+| **[Acebook](https://github.com/GunelMC/acebook-runtime-terrors)**                  | A Facebook clone - group project                          | Ruby on Rails     |
 
 ## Work Experience
 
